@@ -33,10 +33,10 @@ form {
   margin-bottom: 30px;
 }
 
-.instruction {
+.instructions {
   padding: 16px;
   border: 1px solid rgba(39, 33, 66, 0.5);
-  width: 100%;
+  width: 80%;
   font-size: 15px;
   border-radius: 50px;
   color: #272044;
